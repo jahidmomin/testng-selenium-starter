@@ -1,4 +1,4 @@
-# Web Automation Test Suite
+# Web Automation Test Suite Starter - Download & Start Building Test Suites.
 
 This project serves as a starter template for web automation testing using **Selenium WebDriver**, **TestNG**, and **JaCoCo** for code coverage analysis. It provides a foundational setup for writing and managing automated tests for web applications.
 
