@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-29T15:58:24 IST" name="Example Suite" finished-at="2024-10-29T15:58:36 IST" duration-ms="11362">
+    <groups>
+    </groups>
+    <test started-at="2024-10-29T15:58:24 IST" name="Website Test" finished-at="2024-10-29T15:58:36 IST" duration-ms="11362">
+      <class name="com.example.webtests.WebsiteTest">
+        <test-method is-config="true" signature="startReporter()[pri:0, instance:com.example.webtests.WebsiteTest@4044fb95]" started-at="2024-10-29T15:58:24 IST" name="startReporter" finished-at="2024-10-29T15:58:25 IST" duration-ms="423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReporter -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.example.webtests.WebsiteTest@4044fb95]" started-at="2024-10-29T15:58:25 IST" name="setUp" finished-at="2024-10-29T15:58:34 IST" duration-ms="8836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testEnterValidMobileNumberAndOTP()[pri:0, instance:com.example.webtests.WebsiteTest@4044fb95]" started-at="2024-10-29T15:58:34 IST" name="testEnterValidMobileNumberAndOTP" finished-at="2024-10-29T15:58:35 IST" duration-ms="1832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEnterValidMobileNumberAndOTP -->
+        <test-method is-config="true" signature="getResult(org.testng.ITestResult)[pri:0, instance:com.example.webtests.WebsiteTest@4044fb95]" started-at="2024-10-29T15:58:35 IST" name="getResult" finished-at="2024-10-29T15:58:35 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testEnterValidMobileNumberAndOTP status=SUCCESS method=WebsiteTest.testEnterValidMobileNumberAndOTP()[pri:0, instance:com.example.webtests.WebsiteTest@4044fb95] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.example.webtests.WebsiteTest@4044fb95]" started-at="2024-10-29T15:58:35 IST" name="tearDown" finished-at="2024-10-29T15:58:36 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.example.webtests.WebsiteTest -->
+      <class name="com.example.webtests.SampleServiceTest">
+        <test-method signature="testAdd()[pri:0, instance:com.example.webtests.SampleServiceTest@3f792b9b]" started-at="2024-10-29T15:58:36 IST" name="testAdd" finished-at="2024-10-29T15:58:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+        <test-method signature="testGreetWithName()[pri:0, instance:com.example.webtests.SampleServiceTest@3f792b9b]" started-at="2024-10-29T15:58:36 IST" name="testGreetWithName" finished-at="2024-10-29T15:58:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGreetWithName -->
+        <test-method signature="testSubtract()[pri:0, instance:com.example.webtests.SampleServiceTest@3f792b9b]" started-at="2024-10-29T15:58:36 IST" name="testSubtract" finished-at="2024-10-29T15:58:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSubtract -->
+      </class> <!-- com.example.webtests.SampleServiceTest -->
+    </test> <!-- Website Test -->
+  </suite> <!-- Example Suite -->
+</testng-results>
